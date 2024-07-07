@@ -1,0 +1,12 @@
+D:\Code\VS\vb\proje\sqlproje\bin\Debug\sqlproje.exe.config
+D:\Code\VS\vb\proje\sqlproje\bin\Debug\sqlproje.exe
+D:\Code\VS\vb\proje\sqlproje\bin\Debug\sqlproje.pdb
+D:\Code\VS\vb\proje\sqlproje\bin\Debug\sqlproje.xml
+D:\Code\VS\vb\proje\sqlproje\obj\Debug\sqlproje.vbproj.AssemblyReference.cache
+D:\Code\VS\vb\proje\sqlproje\obj\Debug\sqlproje.Form1.resources
+D:\Code\VS\vb\proje\sqlproje\obj\Debug\sqlproje.Resources.resources
+D:\Code\VS\vb\proje\sqlproje\obj\Debug\sqlproje.vbproj.GenerateResource.cache
+D:\Code\VS\vb\proje\sqlproje\obj\Debug\sqlproje.vbproj.CoreCompileInputs.cache
+D:\Code\VS\vb\proje\sqlproje\obj\Debug\sqlproje.exe
+D:\Code\VS\vb\proje\sqlproje\obj\Debug\sqlproje.xml
+D:\Code\VS\vb\proje\sqlproje\obj\Debug\sqlproje.pdb
