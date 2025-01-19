@@ -1,0 +1,12 @@
+D:\github\vb_sql_connection\bin\Debug\vb_sql_connection.exe.config
+D:\github\vb_sql_connection\bin\Debug\vb_sql_connection.exe
+D:\github\vb_sql_connection\bin\Debug\vb_sql_connection.pdb
+D:\github\vb_sql_connection\bin\Debug\vb_sql_connection.xml
+D:\github\vb_sql_connection\obj\Debug\vb_sql_connection.vbproj.AssemblyReference.cache
+D:\github\vb_sql_connection\obj\Debug\vb_sql_connection.Form1.resources
+D:\github\vb_sql_connection\obj\Debug\vb_sql_connection.Resources.resources
+D:\github\vb_sql_connection\obj\Debug\vb_sql_connection.vbproj.GenerateResource.cache
+D:\github\vb_sql_connection\obj\Debug\vb_sql_connection.vbproj.CoreCompileInputs.cache
+D:\github\vb_sql_connection\obj\Debug\vb_sql_connection.exe
+D:\github\vb_sql_connection\obj\Debug\vb_sql_connection.xml
+D:\github\vb_sql_connection\obj\Debug\vb_sql_connection.pdb
